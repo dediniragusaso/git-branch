@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12982eed-d580-4622-bbc0-44ba8dfb72cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Cliente1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2dv4ujPb4p5gxgy45QEwYz3Qpex" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/sophiaragusa-ieg/OneDrive - Instituto Germinare/Área de Trabalho/Tech/POO/Git/git-branch",
     "nodejs_package_manager_path": "npm",
@@ -54,6 +55,9 @@
       <option name="presentableId" value="Default" />
       <updated>1710875443110</updated>
       <workItem from="1710875444242" duration="111000" />
+      <workItem from="1710877219542" duration="228000" />
+      <workItem from="1710877473298" duration="27000" />
+      <workItem from="1710877649304" duration="34000" />
     </task>
     <servers />
   </component>
