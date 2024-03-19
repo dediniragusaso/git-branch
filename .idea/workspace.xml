@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12982eed-d580-4622-bbc0-44ba8dfb72cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Cliente1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +27,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "classe-clientes",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/heloisajesus-ieg/OneDrive - Instituto Germinare/Área de Trabalho/TECH/POO/Git/git-branch",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;classe-clientes&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sophiaragusa-ieg/OneDrive - Instituto Germinare/Área de Trabalho/Tech/POO/Git/git-branch&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +54,8 @@
       <option name="presentableId" value="Default" />
       <updated>1710875443110</updated>
       <workItem from="1710875444242" duration="111000" />
-      <workItem from="1710876906784" duration="115000" />
+      <workItem from="1710877219542" duration="228000" />
+      <workItem from="1710877473298" duration="27000" />
     </task>
     <servers />
   </component>
